@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifysqlite-dev-100634-authRole",
+      "UnauthRoleArn": "arn:aws:iam::236416196202:role/amplify-amplifysqlite-dev-100634-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::236416196202:role/amplify-amplifysqlite-dev-100634-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-amplifysqlite-dev-100634-deployment",
+      "UnauthRoleName": "amplify-amplifysqlite-dev-100634-unauthRole",
+      "StackName": "amplify-amplifysqlite-dev-100634",
+      "StackId": "arn:aws:cloudformation:eu-west-1:236416196202:stack/amplify-amplifysqlite-dev-100634/6fd0ba20-8916-11ee-adb9-0ae344b0a567",
+      "AmplifyAppId": "d2cz8hvisnw3p"
+    },
+    "categories": {
+      "api": {
+        "amplifysqlite": {}
+      }
+    }
+  }
+}
